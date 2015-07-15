@@ -1,0 +1,9 @@
+{ "name": "blok-is-reference",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "is-sha-256-hex-digest": "1.x" },
+  "devDependencies": {
+    "tape": "4.x" },
+  "scripts": {
+    "test": "tape test.js" } }
